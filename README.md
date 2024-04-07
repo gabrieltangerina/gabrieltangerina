@@ -8,9 +8,8 @@ Sou Gabriel, estudante de Sistema de Informação no IFSP. No momento estou apre
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> </img>
 
-
 <div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltangerina&show_icons=true&theme=radical)
-
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrieltangerina&show_icons=true&theme=radical"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltangerina&layout=compact&theme=radical"/>
 </div>
+
