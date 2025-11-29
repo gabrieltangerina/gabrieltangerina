@@ -15,8 +15,9 @@ Com conhecimentos em: <br>
 <img href="www.google.com" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin"></img>
 <img href="www.google.com" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black"></img>
 
+<!--
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrieltangerina&show_icons=true&theme=radical"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltangerina&layout=compact&theme=radical"/>
 </div>
-
+-->
